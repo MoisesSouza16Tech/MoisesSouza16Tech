@@ -1,4 +1,4 @@
-## Olá sou o Moisés Vicente, programador e técnico em Desenvolvimento de Sistemas!
+## Olá sou Moisés Vicente, programador e técnico em Desenvolvimento de Sistemas!
 <!--  e estudante do 3º ano do ensino médio -->
 
 
