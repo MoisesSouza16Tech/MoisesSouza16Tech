@@ -4,7 +4,7 @@
 <!--  e estudante do 3º ano do ensino médio -->
 
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block;"><br>
   <img align="center" alt="Moises-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Moises-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Moises-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
