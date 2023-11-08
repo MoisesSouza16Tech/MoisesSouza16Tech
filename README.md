@@ -11,7 +11,7 @@ Programador e concluinte do 3º ano de técnico em Desenvolvimento de Sistemas n
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
 
-## Linguagens e ferramentas
+## 🔙🔚🌐Linguagens e ferramentas
 <div align="center" style="display: inline_block;">
   <img align="center" alt="Moises-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Moises-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
