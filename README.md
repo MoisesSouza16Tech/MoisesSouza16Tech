@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 # 🌟 Olá sou Moisés Vicente!🌟
-Programador e técnico em Desenvolvimento de Sistemas!
-Me chamo Eduardo, e estou cursando o 3º ano em Desenvolvimento de Sistemas na ETEC de Guaianazes, São Paulo 💻
+
+Programador e concluinte do 3º ano de técnico em Desenvolvimento de Sistemas na ETEC de Guaianazes, São Paulo 📱🖥️
 <!--  e estudante do 3º ano do ensino médio -->
 
 ## Linguagens e ferramentas
