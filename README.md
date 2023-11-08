@@ -23,7 +23,6 @@ Programador e concluinte do 3º ano de técnico em Desenvolvimento de Sistemas n
   <img align="center" alt="Laravel" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Moises-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
 ### Redes Sociais 🌐
 
 <div align="center"> 
