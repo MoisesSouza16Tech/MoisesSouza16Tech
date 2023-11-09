@@ -5,7 +5,7 @@ Programador e concluinte do 3º ano de técnico em Desenvolvimento de Sistemas n
 <!--  e estudante do 3º ano do ensino médio -->
 
 <div>
-  <a href="https://github.com/ellen2121">
+  <a href="https://github.com/MoisesSouza16Tech">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=MoisesSouza16Tech&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesSouza16Tech&layout=compact&langs_count=7&theme=react" />
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
@@ -26,7 +26,6 @@ Programador e concluinte do 3º ano de técnico em Desenvolvimento de Sistemas n
 
 ### Redes Sociais 🌐
 <div align="center"> 
-  <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
   <a href="https://www.instagram.com/moises_vbs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.facebook.com/profile.php?id=100011802908246" target="_blank"><img src="https://img.shields.io/badge/Facebook-9146FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
