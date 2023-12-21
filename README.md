@@ -1,18 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
+
     body {
       background: linear-gradient(to bottom right, #0277BD, #171C30);
       margin: 0;
       padding: 0;
       font-family: Arial, sans-serif;
     }
-  </style>
-</head>
-<body>
 
   <!--### Hi there 👋-->
 # 🌟 Olá sou Moisés Vicente!🌟
