@@ -1,12 +1,4 @@
-
-    body {
-      background: linear-gradient(to bottom right, #0277BD, #171C30);
-      margin: 0;
-      padding: 0;
-      font-family: Arial, sans-serif;
-    }
-
-  <!--### Hi there 👋-->
+<!--### Hi there 👋-->
 # 🌟 Olá sou Moisés Vicente!🌟
 
 Desenvolvedor FullStack e técnico em Desenvolvimento de Sistemas pela ETEC de Guaianazes, São Paulo 📱🖥️
@@ -41,7 +33,3 @@ Desenvolvedor FullStack e técnico em Desenvolvimento de Sistemas pela ETEC de G
   <a href="https://www.linkedin.com/in/moises-vicente-programmer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
-</body>
-</html>
