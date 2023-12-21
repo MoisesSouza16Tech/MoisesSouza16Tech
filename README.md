@@ -1,4 +1,47 @@
-<!--### Hi there 👋-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background: linear-gradient(to bottom right, #0277BD, #171C30);
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    h1 {
+      color: white; /* Altere as cores conforme necessário */
+    }
+
+    div {
+      background-color: rgba(255, 255, 255, 0.8); /* Adapte a opacidade conforme necessário */
+      padding: 20px;
+      border-radius: 10px;
+      margin: 20px;
+    }
+
+    .tools {
+      background-color: rgba(255, 255, 255, 0.8); /* Adapte a opacidade conforme necessário */
+      padding: 20px;
+      border-radius: 10px;
+      margin: 20px;
+      text-align: center;
+    }
+
+    .social {
+      background-color: rgba(255, 255, 255, 0.8); /* Adapte a opacidade conforme necessário */
+      padding: 20px;
+      border-radius: 10px;
+      margin: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <!--### Hi there 👋-->
 # 🌟 Olá sou Moisés Vicente!🌟
 
 Desenvolvedor FullStack e técnico em Desenvolvimento de Sistemas pela ETEC de Guaianazes, São Paulo 📱🖥️
@@ -33,3 +76,7 @@ Desenvolvedor FullStack e técnico em Desenvolvimento de Sistemas pela ETEC de G
   <a href="https://www.linkedin.com/in/moises-vicente-programmer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+</body>
+</html>
