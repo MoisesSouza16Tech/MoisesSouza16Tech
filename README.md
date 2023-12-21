@@ -10,33 +10,6 @@
       padding: 0;
       font-family: Arial, sans-serif;
     }
-
-    h1 {
-      color: white; /* Altere as cores conforme necessário */
-    }
-
-    div {
-      background-color: rgba(255, 255, 255, 0.8); /* Adapte a opacidade conforme necessário */
-      padding: 20px;
-      border-radius: 10px;
-      margin: 20px;
-    }
-
-    .tools {
-      background-color: rgba(255, 255, 255, 0.8); /* Adapte a opacidade conforme necessário */
-      padding: 20px;
-      border-radius: 10px;
-      margin: 20px;
-      text-align: center;
-    }
-
-    .social {
-      background-color: rgba(255, 255, 255, 0.8); /* Adapte a opacidade conforme necessário */
-      padding: 20px;
-      border-radius: 10px;
-      margin: 20px;
-      text-align: center;
-    }
   </style>
 </head>
 <body>
