@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 # 🌟 Olá sou Moisés Vicente!🌟
 
-Desenvolvedor FullStack e técnico em Desenvolvimento de Sistemas pela ETEC de Guaianazes, São Paulo 📱🖥️
+Desenvolvedor FullStack técnico em Desenvolvimento de Sistemas pela ETEC de Guaianazes e cursando bacharelado em Ciências da Computação na UNIP em São Paulo 📱🖥️
 <!--  e estudante do 3º ano do ensino médio -->
 
 <div>
